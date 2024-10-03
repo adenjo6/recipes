@@ -1,9 +1,18 @@
 /*styles.css  */
-div {
-    color: white;
-    background-color: red;
-    font-size: 32px;
-    text-align: center;
-    font-weight: bold;
+.recipe {
+    color: magenta;
+    font-size: 25px;
+}
 
+h1 {
+    color: blue;
+    font-size: 80px;
+}
+
+.headers {
+    font-size: 50px;
+}
+
+li {
+    font-size: 20px;
 }
